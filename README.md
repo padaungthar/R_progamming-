@@ -1,2 +1,2 @@
-# R_progamming
+# R_programming
 Testing 
